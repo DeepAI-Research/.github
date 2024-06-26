@@ -13,4 +13,6 @@ Simverse is a synthetic video & image generator with auto-captioning. Simverse a
 Distributaur is a simple way to run distributed jobs, leveraging low-cost hardware from Vast.ai's marketplace. Get your synthetic data, rendering or data processing jobs done cheap and at scale. 
 Deliver final results to Huggingface with one line of code.
 
+<br>
+
 A [DeepAI](https://deepai.org/) Research Group
