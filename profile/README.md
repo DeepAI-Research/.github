@@ -16,6 +16,8 @@ Deliver final results to Huggingface with one line of code.
 
 <br>
 
+[HuggingFace](https://huggingface.co/DeepAIResearch) / [Discord](https://discord.com/invite/sz6MRfQggc)
+
 If any of the research topics interest you reach out to eric [at] deepai.org 
 
 <br>
