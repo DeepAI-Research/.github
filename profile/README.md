@@ -10,8 +10,8 @@ Simverse is a synthetic video & image generator with auto-captioning. Simverse a
 - Simverse & SimData3D dataset paper + release date late 07/2024
 
 
-### Distributaur
-Distributaur is a simple way to run distributed jobs, leveraging low-cost hardware from Vast.ai's marketplace. Get your synthetic data, rendering or data processing jobs done cheap and at scale. 
+### Distributask
+Distributask is a simple way to run distributed jobs, leveraging low-cost hardware from Vast.ai's marketplace. Get your synthetic data, rendering or data processing jobs done cheap and at scale. 
 Deliver final results to Huggingface with one line of code.
 
 <br>
