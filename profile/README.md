@@ -7,7 +7,7 @@ Currently focusing on improving spatial understanding and motion in video gen mo
 
 ### Simverse
 Simverse is a synthetic video & image generator with auto-captioning. Simverse allows users to place objects in scenes, add movement, auto-caption, and prompt it to generate videos according to specific requirements. Enables the creation of high-quality training datasets for a wide range of computer vision and NLP tasks.
-- Simverse & SimData3D dataset paper + release date late 07/2024
+- Simverse & SimData3D dataset paper + release date late 08/2024
 
 
 ### Distributask
